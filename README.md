@@ -48,7 +48,7 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 
 ### API & Database
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logo=trpc&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-209cee?style=for-the-badge&logo=trpc&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Backend
