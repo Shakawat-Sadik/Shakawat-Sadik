@@ -70,7 +70,7 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ![Claude](https://img.shields.io/badge/Claude-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=DE7356)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=white)
-[![Z.ai](https://shields.io)](https://z.ai/)
+[![Z.ai](https://shields.io)](https://dashboardicons.com/icons/z-ai)
 ![GLM](https://img.shields.io/badge/GLM-000000?style=for-the-badge&logo=glm&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-000000?style=for-the-badge&logo=mistral&logoColor=white)
