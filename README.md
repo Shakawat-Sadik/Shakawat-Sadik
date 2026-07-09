@@ -2,7 +2,7 @@
   <ul align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00674F,100:adebb3&height=200&section=header&text=Hi,%20I'm%20Sadik&fontSize=40&fontColor=ffffff" width="100%"/>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Tech+Enthusiast;Mastering+TypeScript;Learning+tRPC;Brainstorming+Context+Engineering" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=006760&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Tech+Enthusiast;Mastering+TypeScript;Learning+tRPC;Brainstorming+Context+Engineering" alt="Typing SVG" /></a>
   </ul>
 </div>
 
