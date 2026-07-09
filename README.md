@@ -70,7 +70,6 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ![Claude](https://img.shields.io/badge/Claude-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=DE7356)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=white)
-[![Z.ai](https://shields.io)](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/z-ai.svg)
 ![GLM](https://img.shields.io/badge/GLM_5-4F6EF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCBkPSJNNSA0aDE0djMuNUgxMS41TDE5IDE2LjVWMjBINXYtMy41aDcuNUw1IDcuNVY0eiIvPjwvc3ZnPg==&logoColor=FFFFFF)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8534F3?style=for-the-badge&logo=github&logoColor=160048)
 ![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistral-ai&logoColor=white)
@@ -85,9 +84,9 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shakawat-Sadik&show_icons=true&theme=tokyonight" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakawat-Sadik&theme=tokyonight" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakawat-Sadik&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakawat-Sadik&layout=compact&theme=tokyonight" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakawat-Sadik&theme=tokyonight" width="48%"/>
 
 </div>
 
