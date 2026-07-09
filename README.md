@@ -66,17 +66,17 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[your-username])
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakawat-sadik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakawat-sadik)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakawatsadik@gmail.com)
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shakawat-sadik&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakawat-sadik&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakawat-sadik&layout=compact&theme=tokyonight" width="48%"/>
 
 </div>
