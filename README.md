@@ -82,9 +82,9 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shakawat-sadik&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakawat-sadik&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shakawat-Sadik&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakawat-Sadik&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakawat-sadik&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakawat-Sadik&layout=compact&theme=tokyonight" width="48%"/>
 
 </div>
