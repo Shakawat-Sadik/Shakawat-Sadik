@@ -5,7 +5,7 @@
 <!-- Banner: replace with your own banner image URL, or use a quick one from https://capsule-render.vercel.app/ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Sadik&fontSize=40&fontColor=ffffff" width="100%"/>
 
-### Frontend Web Developer
+### Full Stack Web Developer
 
 </div>
 
