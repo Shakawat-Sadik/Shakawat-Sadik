@@ -45,7 +45,7 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-DADDE0?style=for-the-badge&logo=next.js&logoColor=000000)
 ![Zustand](https://img.shields.io/badge/Zustand-D2C7bb?style=for-the-badge&logo=redux&logoColor=835C3B)
-![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=FF5733)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
 
 ### API & Database
