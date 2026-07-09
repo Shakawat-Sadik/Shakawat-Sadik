@@ -17,7 +17,7 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ## Currently
 
-- 🚀 Learning TypeScript, tRPC
+- 🚀 Learning TypeScript, tRPC, and PostgreSQL
 - 🎯 Preparing for AI-native development workflows
 - 🛠️ Building and polishing full-stack projects for my portfolio
 - 💼 Actively looking for Frontend Developer opportunities
@@ -44,13 +44,13 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-DADDE0?style=for-the-badge&logo=next.js&logoColor=000000)
-<img src="./assets/zustand-badge.svg" alt="Zustand" height="28" />
+![Zustand](https://img.shields.io/badge/Zustand-D2C7bb?style=for-the-badge&logo=redux&logoColor=835C3B)
 ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
 
 ### API & Database
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original-wordmark.svg" />
+![tRPC](https://img.shields.io/badge/tRPC-DADDE0?style=for-the-badge&logo=trpc&logoColor=398CCB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Backend
