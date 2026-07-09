@@ -43,8 +43,8 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-f0f0f0?style=for-the-badge&logo=next.js&logoColor=000000)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=redux&logoColor=limegreen)
+![Next.js](https://img.shields.io/badge/Next.js-DADDE0?style=for-the-badge&logo=next.js&logoColor=000000)
+<img src="./assets/zustand-badge.svg" alt="Zustand" height="28" />
 ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
 
@@ -68,8 +68,8 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ### AI Tools
 
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=DE7356)
+![Claude Code](https://img.shields.io/badge/Claude_Code-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-000000?style=for-the-badge&logo=glm&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-000000?style=for-the-badge&logo=mistral&logoColor=white)
