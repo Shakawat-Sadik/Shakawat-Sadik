@@ -41,7 +41,7 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-18181B?style=for-the-badge&logo=shadcn/ui&logoColor=FAFAFA)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-DADDE0?style=for-the-badge&logo=next.js&logoColor=000000)
 ![Zustand](https://img.shields.io/badge/Zustand-D2C7bb?style=for-the-badge&logo=redux&logoColor=835C3B)
@@ -71,9 +71,9 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 ![Claude](https://img.shields.io/badge/Claude-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=DE7356)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=white)
 [![Z.ai](https://shields.io)](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/z-ai.svg)
-![GLM](https://img.shields.io/badge/GLM-000000?style=for-the-badge&logo=glm&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-000000?style=for-the-badge&logo=mistral&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM_5-4F6EF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCBkPSJNNSA0aDE0djMuNUgxMS41TDE5IDE2LjVWMjBINXYtMy41aDcuNUw1IDcuNVY0eiIvPjwvc3ZnPg==&logoColor=FFFFFF)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8534F3?style=for-the-badge&logo=github&logoColor=160048)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistral-ai&logoColor=white)
 
 ## Connect With Me
 
