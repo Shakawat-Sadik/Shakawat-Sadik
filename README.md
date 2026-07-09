@@ -74,6 +74,7 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 ![GLM](https://img.shields.io/badge/GLM_5-4F6EF7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCBkPSJNNSA0aDE0djMuNUgxMS41TDE5IDE2LjVWMjBINXYtMy41aDcuNUw1IDcuNVY0eiIvPjwvc3ZnPg==&logoColor=FFFFFF)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8534F3?style=for-the-badge&logo=github&logoColor=160048)
 ![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistral-ai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white)
 
 ## Connect With Me
 
