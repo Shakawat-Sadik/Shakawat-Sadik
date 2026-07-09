@@ -1,5 +1,3 @@
-<!-- Replace all [bracketed] placeholders with your info before pasting into your GitHub profile repo (username/username) -->
-
 <div id="user-content-toc">
   <ul align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Sadik&fontSize=40&fontColor=ffffff" width="100%"/>
@@ -9,8 +7,6 @@
 </div>
 
 <!-- Banner: replace with your own banner image URL, or use a quick one from https://capsule-render.vercel.app/ -->
-
-### Full Stack Web Developer
 
 </div>
 
