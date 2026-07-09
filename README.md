@@ -40,24 +40,24 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 **Frameworks & Libraries:**
 
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn/ui-18181B?style=for-the-badge&logo=shadcn/ui&logoColor=FAFAFA)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-DADDE0?style=for-the-badge&logo=next.js&logoColor=000000)
-![Zustand](https://img.shields.io/badge/Zustand-D2C7bb?style=for-the-badge&logo=redux&logoColor=835C3B)
 ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=FF5733)
+![Zustand](https://img.shields.io/badge/Zustand-D2C7bb?style=for-the-badge&logo=redux&logoColor=835C3B)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-18181B?style=for-the-badge&logo=shadcn/ui&logoColor=FAFAFA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### API & Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-DADDE0?style=for-the-badge&logo=trpc&logoColor=398CCB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools
 
