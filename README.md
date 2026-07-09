@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00674F,100:adebb3&height=200&section=header&text=Hi,%20I'm%20Shakawat%20Hossain%20Sadik!&fontSize=40&fontColor=ffffff" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00674F,100:adebb3&height=200&section=header&text=Hi!%20I'm%20Shakawat%20Hossain%20Sadik&fontSize=40&fontColor=ffffff" width="100%"/>
     <!--- typo --->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=006760&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Tech+Enthusiast;Mastering+TypeScript;Learning+tRPC;Brainstorming+Context+Engineering" alt="Typing SVG" /></a>
   </ul>
@@ -12,15 +12,15 @@
 
 ## About Me
 
-I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Next.js, and CRUD Operations using REST APIs in Express.JS. Currently completing an intensive full-stack program (Programming Hero SCIC track — selected among the top performers). My core value lies within hard work, team play. And I'm tirelessly passionate about learning new techs. 
-Regardless, I care about clean, maintainable code and building interfaces that feel effortless to use.
+I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Next.js, and CRUD Operations using REST APIs in Express.JS. Currently completing an intensive full-stack program (Programming Hero SCIC track — selected among the top performers). My core value lies within hard work, team play. And I'm tirelessly passionate about learning new techs. And I care about clean, maintainable code and building interfaces that feel effortless to use.
 
-## Currently
+### My current focus is on:
 
+- 🚧 Working on hobby project that combines my analytical and web development skills and hones them
 - 🚀 Learning TypeScript, tRPC, and PostgreSQL
 - 🎯 Preparing for AI-native development workflows
 - 🛠️ Building and polishing full-stack projects for my portfolio
-- 💼 Actively looking for Frontend Developer opportunities
+- 💼 Actively looking for Full-Stack Web Developer opportunities
 
 ## Skills
 
@@ -47,6 +47,7 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 ![Zustand](https://img.shields.io/badge/Zustand-D2C7bb?style=for-the-badge&logo=redux&logoColor=835C3B)
 ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=FF5733)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=betterauth&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ### API & Database
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white)
@@ -57,16 +58,16 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
 
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### AI Tools
+### LLM & AI
 
 ![Claude](https://img.shields.io/badge/Claude-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=DE7356)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B1ADA1?style=for-the-badge&logo=anthropic&logoColor=white)
