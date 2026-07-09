@@ -50,7 +50,7 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ### API & Database
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-209cee?style=for-the-badge&logo=trpc&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original-wordmark.svg" />
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Backend
