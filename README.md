@@ -41,7 +41,7 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
@@ -86,7 +86,6 @@ Regardless, I care about clean, maintainable code and building interfaces that f
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shakawat-Sadik&show_icons=true&theme=tokyonight" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakawat-Sadik&theme=tokyonight" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakawat-Sadik&layout=compact&theme=tokyonight" width="40%"/>
 
 </div>
