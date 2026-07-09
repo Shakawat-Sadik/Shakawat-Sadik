@@ -12,7 +12,8 @@
 
 ## About Me
 
-I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Next.js, and CRUD Operations using REST APIs in Express.JS. Currently completing an intensive full-stack program (Programming Hero SCIC track — selected among the top performers). My core value lies within hard work and team play. And I care about clean, maintainable code and building interfaces that feel effortless to use.
+I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Next.js, and CRUD Operations using REST APIs in Express.JS. Currently completing an intensive full-stack program (Programming Hero SCIC track — selected among the top performers). My core value lies within hard work, team play. And I'm tirelessly passionate about learning new techs. 
+Regardless, I care about clean, maintainable code and building interfaces that feel effortless to use.
 
 ## Currently
 
@@ -83,10 +84,10 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shakawat-Sadik&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shakawat-Sadik&show_icons=true&theme=tokyonight" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakawat-Sadik&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakawat-Sadik&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakawat-Sadik&layout=compact&theme=tokyonight" width="40%"/>
 
 </div>
 
