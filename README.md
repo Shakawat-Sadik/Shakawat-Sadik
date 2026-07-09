@@ -1,9 +1,15 @@
 <!-- Replace all [bracketed] placeholders with your info before pasting into your GitHub profile repo (username/username) -->
 
-<div align="center">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Sadik&fontSize=40&fontColor=ffffff" width="100%"/>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Tech+Enthusiast;Mastering+TypeScript;Learning+tRPC;Brainstorming+Context+Engineering" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
 <!-- Banner: replace with your own banner image URL, or use a quick one from https://capsule-render.vercel.app/ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Sadik&fontSize=40&fontColor=ffffff" width="100%"/>
 
 ### Full Stack Web Developer
 
@@ -74,17 +80,18 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakawat-sadik)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakawat-sadik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shakawat-Sadik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shakawat-Sadik)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakawatsadik@gmail.com)
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shakawat-Sadik&show_icons=true&theme=tokyonight" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Shakawat-Sadik&show_icons=true&theme=tokyonight" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakawat-Sadik&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakawat-Sadik&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakawat-Sadik&layout=compact&theme=tokyonight" width="48%"/> -->
 
 </div>
+
