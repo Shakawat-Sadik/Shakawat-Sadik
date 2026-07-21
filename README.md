@@ -86,12 +86,13 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakawat-Sadik&theme=tokyonight" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakawat-Sadik&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakawat-Sadik&theme=tokyonight" width="100%"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakawat-Sadik&theme=tokyonight" width="48%"/><br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakawat-Sadik&theme=tokyonight" width="48%"/>
 
 </div>
-<a href="https://gist.github.com/YOUR_USERNAME/YOUR_GIST_ID">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=YOUR_GIST_ID" />
+---
+<a href="https://gist.github.com/Shakawat-Sadik/8380283a1b85edfbed01f87a91962bb7">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=8380283a1b85edfbed01f87a91962bb7" />
 </a>
 
