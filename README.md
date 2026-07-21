@@ -91,4 +91,7 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakawat-Sadik&theme=tokyonight" width="48%"/>
 
 </div>
+<a href="https://gist.github.com/YOUR_USERNAME/YOUR_GIST_ID">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=YOUR_GIST_ID" />
+</a>
 
