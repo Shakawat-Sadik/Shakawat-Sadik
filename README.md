@@ -93,6 +93,6 @@ I'm a Fullstack Web Developer with a strong foundation in JavaScript, React, Nex
 </div>
 ---
 <a href="https://gist.github.com/Shakawat-Sadik/8380283a1b85edfbed01f87a91962bb7">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=8380283a1b85edfbed01f87a91962bb7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shakawat-Sadik&repo=8380283a1b85edfbed01f87a91962bb7" />
 </a>
 
